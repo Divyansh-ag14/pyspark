@@ -8,6 +8,6 @@ from pyspark.sql import SparkSession
 spark = SparkSession.builder.appName("myApp").getOrCreate()
 
 # %%
-spark
+print(spark)
 
 # %%
