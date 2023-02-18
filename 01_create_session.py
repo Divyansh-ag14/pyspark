@@ -1,5 +1,6 @@
 # %%
 import pyspark
+import os
 # %%
 os.environ["SPARK_HOME"] = "C:/Users/divyansh/Spark/spark-3.3.1-bin-hadoop3"
 # %%
